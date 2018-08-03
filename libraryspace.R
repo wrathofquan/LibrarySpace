@@ -27,3 +27,29 @@ data <-
 
 data <- data %>% 
   filter(!str_detect(Entrance,"Sensor"))
+
+
+data <- data %>% 
+  filter(!str_detect(," "))
+
+## write to csv
+
+write_csv(data, 'monthly_2018.csv')
+
+
+## annual totals
+
+annuals <- data %>% 
+  group_by(Facility) %>% 
+  summarize(sum(Entries))
+
+
+annual_counter <- read_csv("sqft_counter_2017-2018 .csv")
+
+counter <- annual_counter %>%  mutate(sqft_log = log(sqft),
+                           counter_log = log(annual_counter))
+
+write_csv(counter, "counter.csv")
+
+
+
