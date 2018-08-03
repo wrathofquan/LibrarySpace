@@ -1,0 +1,652 @@
+Date-Time,Region,Facility,Entrance,Entries,Exits
+12/1/17 12:00 AM,,,VLSB1,0,0
+12/1/17 12:00 AM,,,VLSB2,0,0
+12/1/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,588,578
+12/1/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1709,1630
+12/1/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1483,1601
+12/1/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1037,937
+12/1/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,750,791
+12/1/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/1/17 12:00 AM,UC Berkeley,EART Library,Earth North,125,123
+12/1/17 12:00 AM,UC Berkeley,EART Library,Earth South,129,136
+12/1/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,1398,1386
+12/1/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,648,654
+12/1/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2868,60
+12/1/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,32,2752
+12/1/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2655,3276
+12/1/17 12:00 AM,UC Berkeley,MORR Library,Morrison,245,245
+12/1/17 12:00 AM,UC Berkeley,NEWS Library,News,108,108
+12/1/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,109,107
+12/1/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,71,71
+12/1/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,62,66
+12/1/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,119,111
+12/2/17 12:00 AM,,,VLSB1,0,0
+12/2/17 12:00 AM,,,VLSB2,0,0
+12/2/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,2,3
+12/2/17 12:00 AM,UC Berkeley,DOE Library,Doe North,889,760
+12/2/17 12:00 AM,UC Berkeley,DOE Library,Doe South,544,521
+12/2/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1094,935
+12/2/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,441,297
+12/2/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/2/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/2/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/2/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,453,458
+12/2/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,241,245
+12/2/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,1809,22
+12/2/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,17,1821
+12/2/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1394,1522
+12/2/17 12:00 AM,UC Berkeley,MORR Library,Morrison,5,4
+12/2/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/2/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,11,11
+12/2/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,12,9
+12/2/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,19,19
+12/2/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/3/17 12:00 AM,,,VLSB1,0,0
+12/3/17 12:00 AM,,,VLSB2,0,0
+12/3/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,1,1
+12/3/17 12:00 AM,UC Berkeley,DOE Library,Doe North,835,729
+12/3/17 12:00 AM,UC Berkeley,DOE Library,Doe South,485,549
+12/3/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,998,1036
+12/3/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,400,390
+12/3/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/3/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/3/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/3/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,792,792
+12/3/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,759,772
+12/3/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2121,28
+12/3/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,22,1918
+12/3/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2341,2111
+12/3/17 12:00 AM,UC Berkeley,MORR Library,Morrison,6,3
+12/3/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/3/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,8,8
+12/3/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,20,17
+12/3/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,22,22
+12/3/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,36,37
+12/4/17 12:00 AM,,,VLSB1,0,0
+12/4/17 12:00 AM,,,VLSB2,0,0
+12/4/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,519,608
+12/4/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2140,2031
+12/4/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1606,1768
+12/4/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1910,1993
+12/4/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,1060,1083
+12/4/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/4/17 12:00 AM,UC Berkeley,EART Library,Earth North,139,154
+12/4/17 12:00 AM,UC Berkeley,EART Library,Earth South,142,129
+12/4/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,1848,1859
+12/4/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,1380,1386
+12/4/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4039,59
+12/4/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,31,3624
+12/4/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3080,3210
+12/4/17 12:00 AM,UC Berkeley,MORR Library,Morrison,400,404
+12/4/17 12:00 AM,UC Berkeley,NEWS Library,News,122,125
+12/4/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,244,239
+12/4/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,139,141
+12/4/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,100,118
+12/4/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,228,222
+12/5/17 12:00 AM,,,VLSB1,0,0
+12/5/17 12:00 AM,,,VLSB2,0,0
+12/5/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,520,536
+12/5/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2070,1950
+12/5/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1613,1716
+12/5/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,2273,2272
+12/5/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,1051,1078
+12/5/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/5/17 12:00 AM,UC Berkeley,EART Library,Earth North,149,161
+12/5/17 12:00 AM,UC Berkeley,EART Library,Earth South,119,114
+12/5/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,2139,2139
+12/5/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,1401,1427
+12/5/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4446,52
+12/5/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,22,4119
+12/5/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3135,3193
+12/5/17 12:00 AM,UC Berkeley,MORR Library,Morrison,228,223
+12/5/17 12:00 AM,UC Berkeley,NEWS Library,News,116,115
+12/5/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,237,236
+12/5/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,108,110
+12/5/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,84,97
+12/5/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,231,219
+12/6/17 12:00 AM,,,VLSB1,0,0
+12/6/17 12:00 AM,,,VLSB2,0,0
+12/6/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,526,558
+12/6/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2072,1963
+12/6/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1592,1749
+12/6/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,2413,2490
+12/6/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,1014,1074
+12/6/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/6/17 12:00 AM,UC Berkeley,EART Library,Earth North,173,171
+12/6/17 12:00 AM,UC Berkeley,EART Library,Earth South,155,155
+12/6/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,2126,2121
+12/6/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,1512,1514
+12/6/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4851,65
+12/6/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,11,4415
+12/6/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3359,3369
+12/6/17 12:00 AM,UC Berkeley,MORR Library,Morrison,267,258
+12/6/17 12:00 AM,UC Berkeley,NEWS Library,News,124,127
+12/6/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,205,204
+12/6/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,124,123
+12/6/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,81,89
+12/6/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,193,188
+12/7/17 12:00 AM,,,VLSB1,0,0
+12/7/17 12:00 AM,,,VLSB2,0,0
+12/7/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,462,553
+12/7/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2395,2197
+12/7/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1623,1838
+12/7/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,3013,3035
+12/7/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,1136,1107
+12/7/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/7/17 12:00 AM,UC Berkeley,EART Library,Earth North,142,160
+12/7/17 12:00 AM,UC Berkeley,EART Library,Earth South,155,134
+12/7/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,2243,2233
+12/7/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,1535,1544
+12/7/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,5383,65
+12/7/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,38,5032
+12/7/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3758,3827
+12/7/17 12:00 AM,UC Berkeley,MORR Library,Morrison,499,502
+12/7/17 12:00 AM,UC Berkeley,NEWS Library,News,150,144
+12/7/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,112,111
+12/7/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,153,147
+12/7/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,106,121
+12/7/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,190,182
+12/8/17 12:00 AM,,,VLSB1,0,0
+12/8/17 12:00 AM,,,VLSB2,0,0
+12/8/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,530,558
+12/8/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2126,2064
+12/8/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1524,1610
+12/8/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,2703,2660
+12/8/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,1078,1097
+12/8/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/8/17 12:00 AM,UC Berkeley,EART Library,Earth North,134,127
+12/8/17 12:00 AM,UC Berkeley,EART Library,Earth South,126,134
+12/8/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,2065,2064
+12/8/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,1570,1583
+12/8/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,5178,75
+12/8/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,26,4869
+12/8/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3214,3410
+12/8/17 12:00 AM,UC Berkeley,MORR Library,Morrison,336,312
+12/8/17 12:00 AM,UC Berkeley,NEWS Library,News,128,125
+12/8/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,128,123
+12/8/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,103,104
+12/8/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,82,85
+12/8/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,215,203
+12/9/17 12:00 AM,,,VLSB1,0,0
+12/9/17 12:00 AM,,,VLSB2,0,0
+12/9/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,2,2
+12/9/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1546,1384
+12/9/17 12:00 AM,UC Berkeley,DOE Library,Doe South,952,962
+12/9/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,3183,3087
+12/9/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,839,715
+12/9/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/9/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/9/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/9/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,1804,1807
+12/9/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,1253,1250
+12/9/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,5355,51
+12/9/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,28,5140
+12/9/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2852,2952
+12/9/17 12:00 AM,UC Berkeley,MORR Library,Morrison,8,4
+12/9/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/9/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,26,25
+12/9/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,34,29
+12/9/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,37,37
+12/9/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/10/17 12:00 AM,,,VLSB1,0,0
+12/10/17 12:00 AM,,,VLSB2,0,0
+12/10/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,1,1
+12/10/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1123,1050
+12/10/17 12:00 AM,UC Berkeley,DOE Library,Doe South,733,923
+12/10/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,3080,3211
+12/10/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,526,629
+12/10/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/10/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/10/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/10/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,1887,1901
+12/10/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,1391,1393
+12/10/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,5644,44
+12/10/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,23,5276
+12/10/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2903,2930
+12/10/17 12:00 AM,UC Berkeley,MORR Library,Morrison,7,10
+12/10/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/10/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,24,23
+12/10/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,31,30
+12/10/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,38,37
+12/10/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,102,103
+12/11/17 12:00 AM,,,VLSB1,0,0
+12/11/17 12:00 AM,,,VLSB2,0,0
+12/11/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,555,550
+12/11/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1874,1764
+12/11/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1518,1652
+12/11/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,2630,2632
+12/11/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,891,928
+12/11/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/11/17 12:00 AM,UC Berkeley,EART Library,Earth North,137,132
+12/11/17 12:00 AM,UC Berkeley,EART Library,Earth South,123,128
+12/11/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,2076,2074
+12/11/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,1625,1617
+12/11/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,5466,88
+12/11/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,36,5016
+12/11/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3057,3265
+12/11/17 12:00 AM,UC Berkeley,MORR Library,Morrison,249,244
+12/11/17 12:00 AM,UC Berkeley,NEWS Library,News,110,108
+12/11/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,147,147
+12/11/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,98,99
+12/11/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,85,89
+12/11/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,190,181
+12/12/17 12:00 AM,,,VLSB1,0,0
+12/12/17 12:00 AM,,,VLSB2,0,0
+12/12/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,486,483
+12/12/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1759,1603
+12/12/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1429,1590
+12/12/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,2342,2318
+12/12/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,765,776
+12/12/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/12/17 12:00 AM,UC Berkeley,EART Library,Earth North,131,133
+12/12/17 12:00 AM,UC Berkeley,EART Library,Earth South,118,118
+12/12/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,2006,1995
+12/12/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,1514,1518
+12/12/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,5056,58
+12/12/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,24,4718
+12/12/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2839,3164
+12/12/17 12:00 AM,UC Berkeley,MORR Library,Morrison,224,226
+12/12/17 12:00 AM,UC Berkeley,NEWS Library,News,129,127
+12/12/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,108,106
+12/12/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,101,99
+12/12/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,76,85
+12/12/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,172,166
+12/13/17 12:00 AM,,,VLSB1,0,0
+12/13/17 12:00 AM,,,VLSB2,0,0
+12/13/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,393,410
+12/13/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1445,1389
+12/13/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1335,1421
+12/13/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1995,2003
+12/13/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,737,758
+12/13/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/13/17 12:00 AM,UC Berkeley,EART Library,Earth North,110,123
+12/13/17 12:00 AM,UC Berkeley,EART Library,Earth South,91,77
+12/13/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,1706,1741
+12/13/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,1320,1313
+12/13/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4405,64
+12/13/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,23,3971
+12/13/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2552,2800
+12/13/17 12:00 AM,UC Berkeley,MORR Library,Morrison,207,204
+12/13/17 12:00 AM,UC Berkeley,NEWS Library,News,103,99
+12/13/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,96,92
+12/13/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,87,87
+12/13/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,59,65
+12/13/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,127,119
+12/14/17 12:00 AM,,,VLSB1,0,0
+12/14/17 12:00 AM,,,VLSB2,0,0
+12/14/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,327,337
+12/14/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1292,1210
+12/14/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1224,1346
+12/14/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1352,1283
+12/14/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,614,652
+12/14/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/14/17 12:00 AM,UC Berkeley,EART Library,Earth North,101,93
+12/14/17 12:00 AM,UC Berkeley,EART Library,Earth South,66,72
+12/14/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,1315,1283
+12/14/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,937,925
+12/14/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,3393,51
+12/14/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,14,3178
+12/14/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2227,2450
+12/14/17 12:00 AM,UC Berkeley,MORR Library,Morrison,279,285
+12/14/17 12:00 AM,UC Berkeley,NEWS Library,News,110,110
+12/14/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,83,83
+12/14/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,84,86
+12/14/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,61,64
+12/14/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,100,99
+12/15/17 12:00 AM,,,VLSB1,0,0
+12/15/17 12:00 AM,,,VLSB2,0,0
+12/15/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,308,303
+12/15/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1135,1023
+12/15/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1026,1120
+12/15/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,569,466
+12/15/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,391,431
+12/15/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/15/17 12:00 AM,UC Berkeley,EART Library,Earth North,64,60
+12/15/17 12:00 AM,UC Berkeley,EART Library,Earth South,49,55
+12/15/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,699,698
+12/15/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,491,499
+12/15/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,1891,34
+12/15/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,22,1919
+12/15/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1186,1601
+12/15/17 12:00 AM,UC Berkeley,MORR Library,Morrison,291,289
+12/15/17 12:00 AM,UC Berkeley,NEWS Library,News,108,111
+12/15/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,77,77
+12/15/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,54,53
+12/15/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,52,52
+12/15/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,90,80
+12/16/17 12:00 AM,,,VLSB1,0,0
+12/16/17 12:00 AM,,,VLSB2,0,0
+12/16/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+12/16/17 12:00 AM,UC Berkeley,DOE Library,Doe North,3,3
+12/16/17 12:00 AM,UC Berkeley,DOE Library,Doe South,47,42
+12/16/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,11,8
+12/16/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,15,1
+12/16/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/16/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/16/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/16/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,0,0
+12/16/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,0,0
+12/16/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,12,3
+12/16/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,17,22
+12/16/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,0,4
+12/16/17 12:00 AM,UC Berkeley,MORR Library,Morrison,0,0
+12/16/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/16/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/16/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,0,0
+12/16/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,0,0
+12/16/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/17/17 12:00 AM,,,VLSB1,0,0
+12/17/17 12:00 AM,,,VLSB2,0,0
+12/17/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+12/17/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1,3
+12/17/17 12:00 AM,UC Berkeley,DOE Library,Doe South,41,35
+12/17/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,9,7
+12/17/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,10,1
+12/17/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/17/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/17/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/17/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,0,0
+12/17/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,3,2
+12/17/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,5,2
+12/17/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,21,17
+12/17/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3,6
+12/17/17 12:00 AM,UC Berkeley,MORR Library,Morrison,0,0
+12/17/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/17/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/17/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,0,0
+12/17/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,0,0
+12/17/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/18/17 12:00 AM,,,VLSB1,0,0
+12/18/17 12:00 AM,,,VLSB2,0,0
+12/18/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,255,257
+12/18/17 12:00 AM,UC Berkeley,DOE Library,Doe North,616,595
+12/18/17 12:00 AM,UC Berkeley,DOE Library,Doe South,665,690
+12/18/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,123,121
+12/18/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,173,229
+12/18/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/18/17 12:00 AM,UC Berkeley,EART Library,Earth North,39,37
+12/18/17 12:00 AM,UC Berkeley,EART Library,Earth South,42,43
+12/18/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,106,116
+12/18/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,90,89
+12/18/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,321,29
+12/18/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,31,308
+12/18/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,134,144
+12/18/17 12:00 AM,UC Berkeley,MORR Library,Morrison,174,167
+12/18/17 12:00 AM,UC Berkeley,NEWS Library,News,77,80
+12/18/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,21,19
+12/18/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,13,17
+12/18/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,18,19
+12/18/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,50,42
+12/19/17 12:00 AM,,,VLSB1,0,0
+12/19/17 12:00 AM,,,VLSB2,0,0
+12/19/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,253,205
+12/19/17 12:00 AM,UC Berkeley,DOE Library,Doe North,673,574
+12/19/17 12:00 AM,UC Berkeley,DOE Library,Doe South,705,762
+12/19/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,77,89
+12/19/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,180,206
+12/19/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/19/17 12:00 AM,UC Berkeley,EART Library,Earth North,46,46
+12/19/17 12:00 AM,UC Berkeley,EART Library,Earth South,43,42
+12/19/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,99,102
+12/19/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,104,114
+12/19/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,296,20
+12/19/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,15,249
+12/19/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,121,152
+12/19/17 12:00 AM,UC Berkeley,MORR Library,Morrison,318,299
+12/19/17 12:00 AM,UC Berkeley,NEWS Library,News,89,87
+12/19/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,26,28
+12/19/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,24,35
+12/19/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,26,29
+12/19/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,51,39
+12/20/17 12:00 AM,,,VLSB1,0,0
+12/20/17 12:00 AM,,,VLSB2,0,0
+12/20/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,237,202
+12/20/17 12:00 AM,UC Berkeley,DOE Library,Doe North,564,513
+12/20/17 12:00 AM,UC Berkeley,DOE Library,Doe South,630,656
+12/20/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,99,101
+12/20/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,166,200
+12/20/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/20/17 12:00 AM,UC Berkeley,EART Library,Earth North,47,48
+12/20/17 12:00 AM,UC Berkeley,EART Library,Earth South,22,25
+12/20/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,93,95
+12/20/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,76,77
+12/20/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,258,17
+12/20/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,19,230
+12/20/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,73,91
+12/20/17 12:00 AM,UC Berkeley,MORR Library,Morrison,40,36
+12/20/17 12:00 AM,UC Berkeley,NEWS Library,News,62,63
+12/20/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,19,17
+12/20/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,19,28
+12/20/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,17,17
+12/20/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,49,37
+12/21/17 12:00 AM,,,VLSB1,0,0
+12/21/17 12:00 AM,,,VLSB2,0,0
+12/21/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,252,197
+12/21/17 12:00 AM,UC Berkeley,DOE Library,Doe North,493,443
+12/21/17 12:00 AM,UC Berkeley,DOE Library,Doe South,563,558
+12/21/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,118,91
+12/21/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,205,206
+12/21/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/21/17 12:00 AM,UC Berkeley,EART Library,Earth North,19,18
+12/21/17 12:00 AM,UC Berkeley,EART Library,Earth South,12,14
+12/21/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,157,161
+12/21/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,28,28
+12/21/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,256,30
+12/21/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,18,220
+12/21/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,86,107
+12/21/17 12:00 AM,UC Berkeley,MORR Library,Morrison,175,136
+12/21/17 12:00 AM,UC Berkeley,NEWS Library,News,53,55
+12/21/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,18,17
+12/21/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,11,16
+12/21/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,9,11
+12/21/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,17,16
+12/22/17 12:00 AM,,,VLSB1,0,0
+12/22/17 12:00 AM,,,VLSB2,0,0
+12/22/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,93,46
+12/22/17 12:00 AM,UC Berkeley,DOE Library,Doe North,6,6
+12/22/17 12:00 AM,UC Berkeley,DOE Library,Doe South,381,323
+12/22/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,35,33
+12/22/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,28,3
+12/22/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/22/17 12:00 AM,UC Berkeley,EART Library,Earth North,10,8
+12/22/17 12:00 AM,UC Berkeley,EART Library,Earth South,5,7
+12/22/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,68,69
+12/22/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,15,14
+12/22/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,53,4
+12/22/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,27,75
+12/22/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,20,18
+12/22/17 12:00 AM,UC Berkeley,MORR Library,Morrison,45,34
+12/22/17 12:00 AM,UC Berkeley,NEWS Library,News,34,33
+12/22/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/22/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,12,18
+12/22/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,26,25
+12/22/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,1,0
+12/23/17 12:00 AM,,,VLSB1,0,0
+12/23/17 12:00 AM,,,VLSB2,0,0
+12/23/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+12/23/17 12:00 AM,UC Berkeley,DOE Library,Doe North,3,3
+12/23/17 12:00 AM,UC Berkeley,DOE Library,Doe South,61,56
+12/23/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,10,6
+12/23/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,19,3
+12/23/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/23/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/23/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/23/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,97,99
+12/23/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,2,2
+12/23/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,10,0
+12/23/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,16,23
+12/23/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2,5
+12/23/17 12:00 AM,UC Berkeley,MORR Library,Morrison,1,1
+12/23/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/23/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/23/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,0,1
+12/23/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,1,2
+12/23/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/24/17 12:00 AM,,,VLSB1,0,0
+12/24/17 12:00 AM,,,VLSB2,0,0
+12/24/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+12/24/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2,2
+12/24/17 12:00 AM,UC Berkeley,DOE Library,Doe South,21,16
+12/24/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,5,0
+12/24/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,6,0
+12/24/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/24/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/24/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/24/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,0,0
+12/24/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,0,0
+12/24/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4,4
+12/24/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,11,22
+12/24/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1,3
+12/24/17 12:00 AM,UC Berkeley,MORR Library,Morrison,0,0
+12/24/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/24/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/24/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,1,1
+12/24/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,0,0
+12/24/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/25/17 12:00 AM,,,VLSB1,0,0
+12/25/17 12:00 AM,,,VLSB2,0,0
+12/25/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+12/25/17 12:00 AM,UC Berkeley,DOE Library,Doe North,3,3
+12/25/17 12:00 AM,UC Berkeley,DOE Library,Doe South,17,16
+12/25/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,4,3
+12/25/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,3,0
+12/25/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/25/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/25/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/25/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,0,0
+12/25/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,0,0
+12/25/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2,3
+12/25/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,3,4
+12/25/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,0,0
+12/25/17 12:00 AM,UC Berkeley,MORR Library,Morrison,0,0
+12/25/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/25/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/25/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,0,0
+12/25/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,0,0
+12/25/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/26/17 12:00 AM,,,VLSB1,0,0
+12/26/17 12:00 AM,,,VLSB2,0,0
+12/26/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,1,1
+12/26/17 12:00 AM,UC Berkeley,DOE Library,Doe North,4,4
+12/26/17 12:00 AM,UC Berkeley,DOE Library,Doe South,83,80
+12/26/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,6,5
+12/26/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,9,2
+12/26/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/26/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/26/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/26/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,5,4
+12/26/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,0,0
+12/26/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,5,4
+12/26/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,21,26
+12/26/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1,2
+12/26/17 12:00 AM,UC Berkeley,MORR Library,Morrison,8,8
+12/26/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/26/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/26/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,0,0
+12/26/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,0,0
+12/26/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/27/17 12:00 AM,,,VLSB1,0,0
+12/27/17 12:00 AM,,,VLSB2,0,0
+12/27/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+12/27/17 12:00 AM,UC Berkeley,DOE Library,Doe North,0,1
+12/27/17 12:00 AM,UC Berkeley,DOE Library,Doe South,77,68
+12/27/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,12,5
+12/27/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,9,1
+12/27/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/27/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/27/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/27/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,0,0
+12/27/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,3,4
+12/27/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4,1
+12/27/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,19,25
+12/27/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1,5
+12/27/17 12:00 AM,UC Berkeley,MORR Library,Morrison,0,0
+12/27/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/27/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/27/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,10,12
+12/27/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,9,8
+12/27/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/28/17 12:00 AM,,,VLSB1,0,0
+12/28/17 12:00 AM,,,VLSB2,0,0
+12/28/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,1,1
+12/28/17 12:00 AM,UC Berkeley,DOE Library,Doe North,3,4
+12/28/17 12:00 AM,UC Berkeley,DOE Library,Doe South,120,115
+12/28/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,11,4
+12/28/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,39,29
+12/28/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/28/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/28/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/28/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,0,0
+12/28/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,5,6
+12/28/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,9,3
+12/28/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,18,27
+12/28/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2,8
+12/28/17 12:00 AM,UC Berkeley,MORR Library,Morrison,0,0
+12/28/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/28/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/28/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,4,9
+12/28/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,23,23
+12/28/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/29/17 12:00 AM,,,VLSB1,0,0
+12/29/17 12:00 AM,,,VLSB2,0,0
+12/29/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+12/29/17 12:00 AM,UC Berkeley,DOE Library,Doe North,3,3
+12/29/17 12:00 AM,UC Berkeley,DOE Library,Doe South,112,113
+12/29/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,11,4
+12/29/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,12,5
+12/29/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/29/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/29/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/29/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,0,0
+12/29/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,0,0
+12/29/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,5,2
+12/29/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,12,27
+12/29/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1,6
+12/29/17 12:00 AM,UC Berkeley,MORR Library,Morrison,0,0
+12/29/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/29/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/29/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,0,0
+12/29/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,0,0
+12/29/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/30/17 12:00 AM,,,VLSB1,0,0
+12/30/17 12:00 AM,,,VLSB2,0,0
+12/30/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,1,1
+12/30/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1,2
+12/30/17 12:00 AM,UC Berkeley,DOE Library,Doe South,34,29
+12/30/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,10,6
+12/30/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,17,10
+12/30/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/30/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/30/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/30/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,0,0
+12/30/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,0,0
+12/30/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,7,1
+12/30/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,26,31
+12/30/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1,5
+12/30/17 12:00 AM,UC Berkeley,MORR Library,Morrison,0,0
+12/30/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/30/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/30/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,0,0
+12/30/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,0,0
+12/30/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/31/17 12:00 AM,,,VLSB1,0,0
+12/31/17 12:00 AM,,,VLSB2,0,0
+12/31/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+12/31/17 12:00 AM,UC Berkeley,DOE Library,Doe North,4,4
+12/31/17 12:00 AM,UC Berkeley,DOE Library,Doe South,32,28
+12/31/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,6,0
+12/31/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,8,1
+12/31/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/31/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/31/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/31/17 12:00 AM,UC Berkeley,ENGI Library,ENGI,0,0
+12/31/17 12:00 AM,UC Berkeley,ENVI Library,ENVI,0,0
+12/31/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,6,5
+12/31/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,9,13
+12/31/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2,4
+12/31/17 12:00 AM,UC Berkeley,MORR Library,Morrison,20,17
+12/31/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/31/17 12:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/31/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,0,0
+12/31/17 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,0,0
+12/31/17 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0

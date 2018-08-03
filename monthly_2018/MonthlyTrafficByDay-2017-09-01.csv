@@ -1,0 +1,361 @@
+Date-Time,Region,Facility,Entrance,Entries,Exits
+9/1/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,754,739
+9/1/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2088,2059
+9/1/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1493,1624
+9/1/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,732,740
+9/1/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,744,832
+9/1/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/1/17 12:00 AM,UC Berkeley,EART Library,Earth North,99,94
+9/1/17 12:00 AM,UC Berkeley,EART Library,Earth South,93,97
+9/1/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,3066,92
+9/1/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,29,2706
+9/1/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2323,2771
+9/1/17 12:00 AM,UC Berkeley,NEWS Library,News,81,80
+9/2/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,7,6
+9/2/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1302,1046
+9/2/17 12:00 AM,UC Berkeley,DOE Library,Doe South,647,715
+9/2/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1265,1107
+9/2/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,631,498
+9/2/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/2/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+9/2/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+9/2/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2332,74
+9/2/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,23,2278
+9/2/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1416,1547
+9/2/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+9/3/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,5,5
+9/3/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1196,1000
+9/3/17 12:00 AM,UC Berkeley,DOE Library,Doe South,517,704
+9/3/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,753,763
+9/3/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,483,508
+9/3/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/3/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+9/3/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+9/3/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,1434,30
+9/3/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,20,1470
+9/3/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1770,1676
+9/3/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+9/4/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+9/4/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1,1
+9/4/17 12:00 AM,UC Berkeley,DOE Library,Doe South,56,55
+9/4/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,9,9
+9/4/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,1,0
+9/4/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/4/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+9/4/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+9/4/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,3,1
+9/4/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,17,23
+9/4/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,0,0
+9/4/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+9/5/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,829,816
+9/5/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2409,2306
+9/5/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1811,1992
+9/5/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1175,1328
+9/5/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,987,1091
+9/5/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/5/17 12:00 AM,UC Berkeley,EART Library,Earth North,164,199
+9/5/17 12:00 AM,UC Berkeley,EART Library,Earth South,191,157
+9/5/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4628,102
+9/5/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,22,4014
+9/5/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3463,3477
+9/5/17 12:00 AM,UC Berkeley,NEWS Library,News,73,73
+9/6/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,852,871
+9/6/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2495,2418
+9/6/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1853,2031
+9/6/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1107,1183
+9/6/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,865,960
+9/6/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/6/17 12:00 AM,UC Berkeley,EART Library,Earth North,163,250
+9/6/17 12:00 AM,UC Berkeley,EART Library,Earth South,255,167
+9/6/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4519,98
+9/6/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,24,4016
+9/6/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3677,3880
+9/6/17 12:00 AM,UC Berkeley,NEWS Library,News,88,90
+9/7/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,752,760
+9/7/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2493,2303
+9/7/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1782,1987
+9/7/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1187,1162
+9/7/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,933,925
+9/7/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/7/17 12:00 AM,UC Berkeley,EART Library,Earth North,150,176
+9/7/17 12:00 AM,UC Berkeley,EART Library,Earth South,165,136
+9/7/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4153,92
+9/7/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,26,3819
+9/7/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3583,3719
+9/7/17 12:00 AM,UC Berkeley,NEWS Library,News,113,111
+9/8/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,700,668
+9/8/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2137,1961
+9/8/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1481,1729
+9/8/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,778,806
+9/8/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,823,946
+9/8/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/8/17 12:00 AM,UC Berkeley,EART Library,Earth North,107,115
+9/8/17 12:00 AM,UC Berkeley,EART Library,Earth South,112,102
+9/8/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2868,76
+9/8/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,31,2564
+9/8/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2534,3004
+9/8/17 12:00 AM,UC Berkeley,NEWS Library,News,80,73
+9/9/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,4,4
+9/9/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1019,813
+9/9/17 12:00 AM,UC Berkeley,DOE Library,Doe South,507,629
+9/9/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,974,902
+9/9/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,542,453
+9/9/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/9/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+9/9/17 12:00 AM,UC Berkeley,EART Library,Earth South,5,5
+9/9/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,1835,56
+9/9/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,29,1722
+9/9/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1430,1524
+9/9/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+9/10/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,6,6
+9/10/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1253,1054
+9/10/17 12:00 AM,UC Berkeley,DOE Library,Doe South,515,720
+9/10/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1025,1135
+9/10/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,603,606
+9/10/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/10/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+9/10/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+9/10/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2298,30
+9/10/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,15,2080
+9/10/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2573,2326
+9/10/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+9/11/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,948,946
+9/11/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2678,2505
+9/11/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1944,2136
+9/11/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1613,1628
+9/11/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,1110,1173
+9/11/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/11/17 12:00 AM,UC Berkeley,EART Library,Earth North,133,214
+9/11/17 12:00 AM,UC Berkeley,EART Library,Earth South,233,155
+9/11/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4940,126
+9/11/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,36,4396
+9/11/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3872,4119
+9/11/17 12:00 AM,UC Berkeley,NEWS Library,News,97,98
+9/12/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,765,767
+9/12/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2623,2513
+9/12/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1838,1973
+9/12/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1570,1605
+9/12/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,1002,1037
+9/12/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/12/17 12:00 AM,UC Berkeley,EART Library,Earth North,135,158
+9/12/17 12:00 AM,UC Berkeley,EART Library,Earth South,169,148
+9/12/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,5118,89
+9/12/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,30,4681
+9/12/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3771,3880
+9/12/17 12:00 AM,UC Berkeley,NEWS Library,News,124,129
+9/13/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,803,874
+9/13/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2656,2573
+9/13/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1971,2115
+9/13/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1695,1750
+9/13/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,1063,1123
+9/13/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/13/17 12:00 AM,UC Berkeley,EART Library,Earth North,150,239
+9/13/17 12:00 AM,UC Berkeley,EART Library,Earth South,221,140
+9/13/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,5439,106
+9/13/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,28,4915
+9/13/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,4206,4403
+9/13/17 12:00 AM,UC Berkeley,NEWS Library,News,84,84
+9/14/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,747,727
+9/14/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2301,2124
+9/14/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1631,1791
+9/14/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1406,1323
+9/14/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,971,965
+9/14/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/14/17 12:00 AM,UC Berkeley,EART Library,Earth North,132,191
+9/14/17 12:00 AM,UC Berkeley,EART Library,Earth South,185,127
+9/14/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4526,110
+9/14/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,32,4163
+9/14/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3542,3959
+9/14/17 12:00 AM,UC Berkeley,NEWS Library,News,94,94
+9/15/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,612,673
+9/15/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2064,1960
+9/15/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1432,1656
+9/15/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,864,777
+9/15/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,728,770
+9/15/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/15/17 12:00 AM,UC Berkeley,EART Library,Earth North,99,94
+9/15/17 12:00 AM,UC Berkeley,EART Library,Earth South,88,96
+9/15/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2819,66
+9/15/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,30,2595
+9/15/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2566,3030
+9/15/17 12:00 AM,UC Berkeley,NEWS Library,News,92,92
+9/16/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,4,4
+9/16/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1205,1006
+9/16/17 12:00 AM,UC Berkeley,DOE Library,Doe South,598,727
+9/16/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,978,906
+9/16/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,429,362
+9/16/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/16/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+9/16/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+9/16/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2001,28
+9/16/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,28,1885
+9/16/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1542,1701
+9/16/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+9/17/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,5,5
+9/17/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1469,1271
+9/17/17 12:00 AM,UC Berkeley,DOE Library,Doe South,769,973
+9/17/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1146,1293
+9/17/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,530,568
+9/17/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/17/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+9/17/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+9/17/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2470,30
+9/17/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,27,2289
+9/17/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2998,2582
+9/17/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+9/18/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,832,831
+9/18/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2536,2399
+9/18/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1805,2018
+9/18/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1757,1893
+9/18/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,1023,1145
+9/18/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/18/17 12:00 AM,UC Berkeley,EART Library,Earth North,143,213
+9/18/17 12:00 AM,UC Berkeley,EART Library,Earth South,227,159
+9/18/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4953,87
+9/18/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,26,4392
+9/18/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,4169,4259
+9/18/17 12:00 AM,UC Berkeley,NEWS Library,News,102,101
+9/19/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,819,818
+9/19/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2854,2782
+9/19/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1804,1936
+9/19/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1696,1715
+9/19/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,928,984
+9/19/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/19/17 12:00 AM,UC Berkeley,EART Library,Earth North,157,192
+9/19/17 12:00 AM,UC Berkeley,EART Library,Earth South,197,156
+9/19/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4976,91
+9/19/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,38,4469
+9/19/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3862,4131
+9/19/17 12:00 AM,UC Berkeley,NEWS Library,News,133,137
+9/20/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,848,872
+9/20/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2525,2384
+9/20/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1823,1979
+9/20/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1747,1753
+9/20/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,1018,1069
+9/20/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/20/17 12:00 AM,UC Berkeley,EART Library,Earth North,169,231
+9/20/17 12:00 AM,UC Berkeley,EART Library,Earth South,218,160
+9/20/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4909,76
+9/20/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,18,4505
+9/20/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,4087,4247
+9/20/17 12:00 AM,UC Berkeley,NEWS Library,News,98,97
+9/21/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,717,726
+9/21/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2239,2092
+9/21/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1784,1926
+9/21/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1533,1452
+9/21/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,886,924
+9/21/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/21/17 12:00 AM,UC Berkeley,EART Library,Earth North,137,171
+9/21/17 12:00 AM,UC Berkeley,EART Library,Earth South,162,125
+9/21/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4579,89
+9/21/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,22,4240
+9/21/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3544,3822
+9/21/17 12:00 AM,UC Berkeley,NEWS Library,News,110,108
+9/22/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,643,642
+9/22/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2112,1909
+9/22/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1396,1676
+9/22/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,972,867
+9/22/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,804,896
+9/22/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/22/17 12:00 AM,UC Berkeley,EART Library,Earth North,112,108
+9/22/17 12:00 AM,UC Berkeley,EART Library,Earth South,109,111
+9/22/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,3114,75
+9/22/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,33,2876
+9/22/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2774,3400
+9/22/17 12:00 AM,UC Berkeley,NEWS Library,News,126,125
+9/23/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,4,4
+9/23/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1135,922
+9/23/17 12:00 AM,UC Berkeley,DOE Library,Doe South,564,652
+9/23/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1260,1132
+9/23/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,460,344
+9/23/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/23/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+9/23/17 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+9/23/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2270,21
+9/23/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,27,2211
+9/23/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1762,1868
+9/23/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+9/24/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,4,5
+9/24/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1155,956
+9/24/17 12:00 AM,UC Berkeley,DOE Library,Doe South,609,772
+9/24/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1368,1551
+9/24/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,554,538
+9/24/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/24/17 12:00 AM,UC Berkeley,EART Library,Earth North,0,1
+9/24/17 12:00 AM,UC Berkeley,EART Library,Earth South,1,0
+9/24/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2881,37
+9/24/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,22,2580
+9/24/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3050,2598
+9/24/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+9/25/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,889,827
+9/25/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2545,2347
+9/25/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1812,1979
+9/25/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,2344,2465
+9/25/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,1177,1220
+9/25/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/25/17 12:00 AM,UC Berkeley,EART Library,Earth North,149,205
+9/25/17 12:00 AM,UC Berkeley,EART Library,Earth South,190,138
+9/25/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,5812,68
+9/25/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,27,5340
+9/25/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,4420,4492
+9/25/17 12:00 AM,UC Berkeley,NEWS Library,News,124,119
+9/26/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,750,784
+9/26/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2462,2302
+9/26/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1796,1962
+9/26/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,2347,2299
+9/26/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,1137,1120
+9/26/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/26/17 12:00 AM,UC Berkeley,EART Library,Earth North,136,166
+9/26/17 12:00 AM,UC Berkeley,EART Library,Earth South,166,134
+9/26/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,5798,95
+9/26/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,27,5343
+9/26/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,4248,4504
+9/26/17 12:00 AM,UC Berkeley,NEWS Library,News,85,88
+9/27/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,748,790
+9/27/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2217,2105
+9/27/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1817,1994
+9/27/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,2082,2046
+9/27/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,1094,1125
+9/27/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/27/17 12:00 AM,UC Berkeley,EART Library,Earth North,149,204
+9/27/17 12:00 AM,UC Berkeley,EART Library,Earth South,216,158
+9/27/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,5465,82
+9/27/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,14,5055
+9/27/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,4054,4388
+9/27/17 12:00 AM,UC Berkeley,NEWS Library,News,93,93
+9/28/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,627,679
+9/28/17 12:00 AM,UC Berkeley,DOE Library,Doe North,2057,1996
+9/28/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1770,1979
+9/28/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1550,1510
+9/28/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,986,1056
+9/28/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/28/17 12:00 AM,UC Berkeley,EART Library,Earth North,146,180
+9/28/17 12:00 AM,UC Berkeley,EART Library,Earth South,158,123
+9/28/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4712,88
+9/28/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,25,4334
+9/28/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3511,3873
+9/28/17 12:00 AM,UC Berkeley,NEWS Library,News,126,128
+9/29/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,595,580
+9/29/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1772,1698
+9/29/17 12:00 AM,UC Berkeley,DOE Library,Doe South,1570,1695
+9/29/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,915,858
+9/29/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,724,816
+9/29/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/29/17 12:00 AM,UC Berkeley,EART Library,Earth North,99,102
+9/29/17 12:00 AM,UC Berkeley,EART Library,Earth South,85,81
+9/29/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2843,71
+9/29/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,19,2588
+9/29/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2473,3037
+9/29/17 12:00 AM,UC Berkeley,NEWS Library,News,90,87
+9/30/17 12:00 AM,UC Berkeley,BANC Library,Bancroft,3,3
+9/30/17 12:00 AM,UC Berkeley,DOE Library,Doe North,1241,1074
+9/30/17 12:00 AM,UC Berkeley,DOE Library,Doe South,689,733
+9/30/17 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1355,1222
+9/30/17 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,502,374
+9/30/17 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+9/30/17 12:00 AM,UC Berkeley,EART Library,Earth North,2,2
+9/30/17 12:00 AM,UC Berkeley,EART Library,Earth South,1,2
+9/30/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2479,41
+9/30/17 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,23,2385
+9/30/17 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1796,1953
+9/30/17 12:00 AM,UC Berkeley,NEWS Library,News,0,0
