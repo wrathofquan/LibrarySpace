@@ -68,6 +68,8 @@ busiest_day <- hourly %>%
   filter(Facility %in% c("MOFF Library", "DOE Library", "DOE STACKS", "BANC Library")) %>% 
   filter(count > 0)
 
+write_excel_csv(busiest_day, 'hourly_aggregate-2017-2018.csv')
+
 # %>%
 #   top_n(n = 15) %>%
 #   arrange(desc(count), Facility ) 
