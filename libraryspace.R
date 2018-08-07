@@ -46,10 +46,10 @@ annuals <- data %>%
 
 annual_counter <- read_csv("sqft_counter_2017-2018 .csv")
 
-counter <- annual_counter %>%  mutate(sqft_log = log(sqft),
-                           counter_log = log(annual_counter))
+counter <- annual_counter %>%  mutate(sqft_log2 = log2(sqft),
+                           counter_log2 = log2(annual_counter))
 
-write_csv(counter, "counter.csv")
+write_csv(counter, "counter_sqft_2018.csv")
 
 
 
