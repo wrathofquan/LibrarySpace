@@ -64,12 +64,15 @@ busiest_day <- hourly %>%
   group_by(Facility, day1 = floor_date(Date, "day")) %>%
   summarize(count = sum(Entries)) %>%
   group_by(Facility, day1) %>%
-  summarize(count = max(count)) %>%
-  top_n(n = 15) %>%
-  arrange(desc(count), Facility ) %>%
-  filter(count>0)
+  summarize(count = max(count)) %>% 
+  filter(Facility %in% c("MOFF Library", "DOE Library", "DOE STACKS", "BANC Library")) %>% 
+  filter(count > 0)
+
+# %>%
+#   top_n(n = 15) %>%
+#   arrange(desc(count), Facility ) 
 
 #quick chart
 busiest_day %>% 
-  ggplot(aes(x= day1, y = count, color=Facility)) + geom_point()
+  ggplot(aes(x= day1, y = count, color=Facility)) + geom_point() + ggtitle("Daily Counter Totals, July 2017-2018")
 
