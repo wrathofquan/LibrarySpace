@@ -1,0 +1,645 @@
+Date-Time,Region,Facility,Entrance,Entries,Exits
+2/1/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,657,659
+2/1/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,575,762
+2/1/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,515,360
+2/1/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,0,0
+2/1/18 12:00 AM,UC Berkeley,DOE Library,Doe North,1887,1853
+2/1/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1595,1625
+2/1/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,921,890
+2/1/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,689,680
+2/1/18 12:00 AM,UC Berkeley,EAL Library,EAL,217,140
+2/1/18 12:00 AM,UC Berkeley,EART Library,Earth North,127,207
+2/1/18 12:00 AM,UC Berkeley,EART Library,Earth South,219,141
+2/1/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,1904,1881
+2/1/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,831,838
+2/1/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,551,367
+2/1/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,3497,65
+2/1/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,23,3251
+2/1/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3298,3487
+2/1/18 12:00 AM,UC Berkeley,MORR Library,Morrison,328,326
+2/1/18 12:00 AM,UC Berkeley,NEWS Library,News,99,91
+2/1/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,158,157
+2/1/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,87,89
+2/1/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,64,71
+2/1/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,107,102
+2/2/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,588,568
+2/2/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,340,454
+2/2/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,338,249
+2/2/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,0,0
+2/2/18 12:00 AM,UC Berkeley,DOE Library,Doe North,1556,1452
+2/2/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1284,1404
+2/2/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,621,577
+2/2/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,612,654
+2/2/18 12:00 AM,UC Berkeley,EAL Library,EAL,151,119
+2/2/18 12:00 AM,UC Berkeley,EART Library,Earth North,90,108
+2/2/18 12:00 AM,UC Berkeley,EART Library,Earth South,120,105
+2/2/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,1375,1381
+2/2/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,437,440
+2/2/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,388,240
+2/2/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,1981,47
+2/2/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,16,1788
+2/2/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2348,2777
+2/2/18 12:00 AM,UC Berkeley,MORR Library,Morrison,240,236
+2/2/18 12:00 AM,UC Berkeley,NEWS Library,News,88,85
+2/2/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,82,80
+2/2/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,53,56
+2/2/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,41,43
+2/2/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,150,137
+2/3/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,2,2
+2/3/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,122,148
+2/3/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,92,73
+2/3/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,0,0
+2/3/18 12:00 AM,UC Berkeley,DOE Library,Doe North,1101,953
+2/3/18 12:00 AM,UC Berkeley,DOE Library,Doe South,528,599
+2/3/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,822,748
+2/3/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,424,357
+2/3/18 12:00 AM,UC Berkeley,EAL Library,EAL,102,93
+2/3/18 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+2/3/18 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+2/3/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,399,403
+2/3/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,169,170
+2/3/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,63,24
+2/3/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,1570,21
+2/3/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,29,1425
+2/3/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1445,1624
+2/3/18 12:00 AM,UC Berkeley,MORR Library,Morrison,6,4
+2/3/18 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+2/3/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,213,230
+2/3/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,3,3
+2/3/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,12,12
+2/3/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+2/4/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+2/4/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,226,257
+2/4/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,175,151
+2/4/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,0,0
+2/4/18 12:00 AM,UC Berkeley,DOE Library,Doe North,642,565
+2/4/18 12:00 AM,UC Berkeley,DOE Library,Doe South,391,458
+2/4/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,639,710
+2/4/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,313,310
+2/4/18 12:00 AM,UC Berkeley,EAL Library,EAL,148,127
+2/4/18 12:00 AM,UC Berkeley,EART Library,Earth North,2,2
+2/4/18 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+2/4/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,627,625
+2/4/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,532,537
+2/4/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,40,18
+2/4/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,1683,15
+2/4/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,17,1407
+2/4/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2204,2075
+2/4/18 12:00 AM,UC Berkeley,MORR Library,Morrison,10,8
+2/4/18 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+2/4/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,7,7
+2/4/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,10,7
+2/4/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,31,31
+2/4/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,36,38
+2/5/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,711,695
+2/5/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,733,899
+2/5/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,562,422
+2/5/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,0,0
+2/5/18 12:00 AM,UC Berkeley,DOE Library,Doe North,2017,1860
+2/5/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1654,1775
+2/5/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1375,1420
+2/5/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,895,905
+2/5/18 12:00 AM,UC Berkeley,EAL Library,EAL,312,195
+2/5/18 12:00 AM,UC Berkeley,EART Library,Earth North,153,207
+2/5/18 12:00 AM,UC Berkeley,EART Library,Earth South,191,139
+2/5/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,2118,2082
+2/5/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,921,924
+2/5/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,885,559
+2/5/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,3944,60
+2/5/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,25,3501
+2/5/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3642,3785
+2/5/18 12:00 AM,UC Berkeley,MORR Library,Morrison,321,317
+2/5/18 12:00 AM,UC Berkeley,NEWS Library,News,127,126
+2/5/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,121,119
+2/5/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,89,87
+2/5/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,66,78
+2/5/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,237,226
+2/6/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,755,739
+2/6/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,700,853
+2/6/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,551,438
+2/6/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,369,386
+2/6/18 12:00 AM,UC Berkeley,DOE Library,Doe North,1999,1862
+2/6/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1641,1749
+2/6/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1210,1203
+2/6/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,736,724
+2/6/18 12:00 AM,UC Berkeley,EAL Library,EAL,206,168
+2/6/18 12:00 AM,UC Berkeley,EART Library,Earth North,140,210
+2/6/18 12:00 AM,UC Berkeley,EART Library,Earth South,193,123
+2/6/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,2188,2187
+2/6/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,923,937
+2/6/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,704,471
+2/6/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,3992,52
+2/6/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,25,3600
+2/6/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3619,3905
+2/6/18 12:00 AM,UC Berkeley,MORR Library,Morrison,286,284
+2/6/18 12:00 AM,UC Berkeley,NEWS Library,News,92,92
+2/6/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,189,185
+2/6/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,76,77
+2/6/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,44,55
+2/6/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,218,209
+2/7/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,797,747
+2/7/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,794,979
+2/7/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,652,507
+2/7/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,630,622
+2/7/18 12:00 AM,UC Berkeley,DOE Library,Doe North,2067,1954
+2/7/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1636,1727
+2/7/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1321,1357
+2/7/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,835,872
+2/7/18 12:00 AM,UC Berkeley,EAL Library,EAL,87,55
+2/7/18 12:00 AM,UC Berkeley,EART Library,Earth North,135,167
+2/7/18 12:00 AM,UC Berkeley,EART Library,Earth South,158,127
+2/7/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,2196,2201
+2/7/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,874,887
+2/7/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,715,484
+2/7/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,3937,65
+2/7/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,29,3576
+2/7/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3911,4063
+2/7/18 12:00 AM,UC Berkeley,MORR Library,Morrison,287,288
+2/7/18 12:00 AM,UC Berkeley,NEWS Library,News,86,85
+2/7/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,148,147
+2/7/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,112,110
+2/7/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,71,73
+2/7/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,129,118
+2/8/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,650,671
+2/8/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,633,746
+2/8/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,541,455
+2/8/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,527,519
+2/8/18 12:00 AM,UC Berkeley,DOE Library,Doe North,2132,2118
+2/8/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1664,1708
+2/8/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1268,1207
+2/8/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,743,754
+2/8/18 12:00 AM,UC Berkeley,EAL Library,EAL,162,107
+2/8/18 12:00 AM,UC Berkeley,EART Library,Earth North,132,184
+2/8/18 12:00 AM,UC Berkeley,EART Library,Earth South,167,118
+2/8/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,2052,2039
+2/8/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,935,942
+2/8/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,574,395
+2/8/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,3705,58
+2/8/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,23,3411
+2/8/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3585,3792
+2/8/18 12:00 AM,UC Berkeley,MORR Library,Morrison,244,251
+2/8/18 12:00 AM,UC Berkeley,NEWS Library,News,96,94
+2/8/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,198,197
+2/8/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,113,116
+2/8/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,68,88
+2/8/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,125,124
+2/9/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,592,574
+2/9/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,415,462
+2/9/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,286,240
+2/9/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,471,436
+2/9/18 12:00 AM,UC Berkeley,DOE Library,Doe North,1824,1721
+2/9/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1364,1504
+2/9/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,782,677
+2/9/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,589,629
+2/9/18 12:00 AM,UC Berkeley,EAL Library,EAL,113,69
+2/9/18 12:00 AM,UC Berkeley,EART Library,Earth North,83,98
+2/9/18 12:00 AM,UC Berkeley,EART Library,Earth South,103,86
+2/9/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,1381,1385
+2/9/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,482,477
+2/9/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,474,343
+2/9/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2291,51
+2/9/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,13,2125
+2/9/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2392,2948
+2/9/18 12:00 AM,UC Berkeley,MORR Library,Morrison,293,287
+2/9/18 12:00 AM,UC Berkeley,NEWS Library,News,86,83
+2/9/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,109,105
+2/9/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,76,79
+2/9/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,53,57
+2/9/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,118,110
+2/10/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,2,2
+2/10/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,169,183
+2/10/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,133,120
+2/10/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,0,0
+2/10/18 12:00 AM,UC Berkeley,DOE Library,Doe North,1147,1000
+2/10/18 12:00 AM,UC Berkeley,DOE Library,Doe South,566,580
+2/10/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1116,1005
+2/10/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,382,292
+2/10/18 12:00 AM,UC Berkeley,EAL Library,EAL,90,38
+2/10/18 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+2/10/18 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+2/10/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,603,597
+2/10/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,311,307
+2/10/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,61,29
+2/10/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2055,27
+2/10/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,20,2042
+2/10/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1812,1872
+2/10/18 12:00 AM,UC Berkeley,MORR Library,Morrison,8,7
+2/10/18 12:00 AM,UC Berkeley,NEWS Library,News,0,1
+2/10/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,6,5
+2/10/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,15,13
+2/10/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,19,19
+2/10/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+2/11/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+2/11/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,350,404
+2/11/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,346,284
+2/11/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,3,3
+2/11/18 12:00 AM,UC Berkeley,DOE Library,Doe North,1027,936
+2/11/18 12:00 AM,UC Berkeley,DOE Library,Doe South,514,585
+2/11/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1070,1194
+2/11/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,419,428
+2/11/18 12:00 AM,UC Berkeley,EAL Library,EAL,119,90
+2/11/18 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+2/11/18 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+2/11/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,1044,1046
+2/11/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,994,996
+2/11/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,71,45
+2/11/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2471,22
+2/11/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,7,2230
+2/11/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2844,2455
+2/11/18 12:00 AM,UC Berkeley,MORR Library,Morrison,7,4
+2/11/18 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+2/11/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,6,5
+2/11/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,19,18
+2/11/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,20,20
+2/11/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,46,48
+2/12/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,793,818
+2/12/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,850,1030
+2/12/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,709,540
+2/12/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,614,541
+2/12/18 12:00 AM,UC Berkeley,DOE Library,Doe North,2140,2118
+2/12/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1782,1858
+2/12/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1519,1636
+2/12/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,864,913
+2/12/18 12:00 AM,UC Berkeley,EAL Library,EAL,284,183
+2/12/18 12:00 AM,UC Berkeley,EART Library,Earth North,187,224
+2/12/18 12:00 AM,UC Berkeley,EART Library,Earth South,195,161
+2/12/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,2367,2352
+2/12/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,1153,1157
+2/12/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,923,696
+2/12/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4364,88
+2/12/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,23,3905
+2/12/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,4056,4053
+2/12/18 12:00 AM,UC Berkeley,MORR Library,Morrison,331,347
+2/12/18 12:00 AM,UC Berkeley,NEWS Library,News,94,91
+2/12/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,115,114
+2/12/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,111,111
+2/12/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,88,97
+2/12/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,227,215
+2/13/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,777,870
+2/13/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,858,959
+2/13/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,700,594
+2/13/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,593,565
+2/13/18 12:00 AM,UC Berkeley,DOE Library,Doe North,2021,1982
+2/13/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1664,1768
+2/13/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1519,1482
+2/13/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,821,822
+2/13/18 12:00 AM,UC Berkeley,EAL Library,EAL,225,154
+2/13/18 12:00 AM,UC Berkeley,EART Library,Earth North,149,202
+2/13/18 12:00 AM,UC Berkeley,EART Library,Earth South,201,151
+2/13/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,2182,2178
+2/13/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,1084,1102
+2/13/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,744,535
+2/13/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4390,76
+2/13/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,19,4072
+2/13/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3845,4048
+2/13/18 12:00 AM,UC Berkeley,MORR Library,Morrison,336,340
+2/13/18 12:00 AM,UC Berkeley,NEWS Library,News,110,111
+2/13/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,144,144
+2/13/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,105,103
+2/13/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,71,85
+2/13/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,236,225
+2/14/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,626,660
+2/14/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,843,917
+2/14/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,602,529
+2/14/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,576,551
+2/14/18 12:00 AM,UC Berkeley,DOE Library,Doe North,1877,1837
+2/14/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1617,1680
+2/14/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1359,1311
+2/14/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,794,807
+2/14/18 12:00 AM,UC Berkeley,EAL Library,EAL,258,174
+2/14/18 12:00 AM,UC Berkeley,EART Library,Earth North,144,179
+2/14/18 12:00 AM,UC Berkeley,EART Library,Earth South,173,139
+2/14/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,2207,2190
+2/14/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,970,983
+2/14/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,710,535
+2/14/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4039,92
+2/14/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,27,3693
+2/14/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3721,3956
+2/14/18 12:00 AM,UC Berkeley,MORR Library,Morrison,262,263
+2/14/18 12:00 AM,UC Berkeley,NEWS Library,News,98,97
+2/14/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,148,147
+2/14/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,103,101
+2/14/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,84,93
+2/14/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,133,126
+2/15/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,666,695
+2/15/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,706,797
+2/15/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,528,443
+2/15/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,548,522
+2/15/18 12:00 AM,UC Berkeley,DOE Library,Doe North,1897,1781
+2/15/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1676,1831
+2/15/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1117,1105
+2/15/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,761,803
+2/15/18 12:00 AM,UC Berkeley,EAL Library,EAL,217,124
+2/15/18 12:00 AM,UC Berkeley,EART Library,Earth North,128,170
+2/15/18 12:00 AM,UC Berkeley,EART Library,Earth South,165,122
+2/15/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,1990,1970
+2/15/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,972,989
+2/15/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,672,489
+2/15/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,3926,96
+2/15/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,18,3523
+2/15/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3546,3851
+2/15/18 12:00 AM,UC Berkeley,MORR Library,Morrison,275,282
+2/15/18 12:00 AM,UC Berkeley,NEWS Library,News,103,101
+2/15/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,147,147
+2/15/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,89,84
+2/15/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,61,67
+2/15/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,114,107
+2/16/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,638,559
+2/16/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,404,491
+2/16/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,289,212
+2/16/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,421,419
+2/16/18 12:00 AM,UC Berkeley,DOE Library,Doe North,1740,1511
+2/16/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1180,1310
+2/16/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,628,541
+2/16/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,571,598
+2/16/18 12:00 AM,UC Berkeley,EAL Library,EAL,144,77
+2/16/18 12:00 AM,UC Berkeley,EART Library,Earth North,93,112
+2/16/18 12:00 AM,UC Berkeley,EART Library,Earth South,96,75
+2/16/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,1401,1417
+2/16/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,503,505
+2/16/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,426,316
+2/16/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2040,93
+2/16/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,12,1921
+2/16/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2173,2659
+2/16/18 12:00 AM,UC Berkeley,MORR Library,Morrison,315,298
+2/16/18 12:00 AM,UC Berkeley,NEWS Library,News,86,87
+2/16/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,129,127
+2/16/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,57,59
+2/16/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,40,56
+2/16/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,135,128
+2/17/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,3,3
+2/17/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,103,132
+2/17/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,117,84
+2/17/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,3,2
+2/17/18 12:00 AM,UC Berkeley,DOE Library,Doe North,1179,1015
+2/17/18 12:00 AM,UC Berkeley,DOE Library,Doe South,548,649
+2/17/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,723,661
+2/17/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,301,242
+2/17/18 12:00 AM,UC Berkeley,EAL Library,EAL,90,51
+2/17/18 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+2/17/18 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+2/17/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,335,335
+2/17/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,168,168
+2/17/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,123,101
+2/17/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,1530,31
+2/17/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,21,1414
+2/17/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1272,1380
+2/17/18 12:00 AM,UC Berkeley,MORR Library,Morrison,24,9
+2/17/18 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+2/17/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,4,4
+2/17/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,14,14
+2/17/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,18,18
+2/17/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+2/18/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,4,4
+2/18/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,231,298
+2/18/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,235,167
+2/18/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,0,0
+2/18/18 12:00 AM,UC Berkeley,DOE Library,Doe North,1119,962
+2/18/18 12:00 AM,UC Berkeley,DOE Library,Doe South,612,741
+2/18/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,669,678
+2/18/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,402,421
+2/18/18 12:00 AM,UC Berkeley,EAL Library,EAL,117,104
+2/18/18 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+2/18/18 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+2/18/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,600,600
+2/18/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,676,673
+2/18/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,26,22
+2/18/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,1581,23
+2/18/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,8,1531
+2/18/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1861,1837
+2/18/18 12:00 AM,UC Berkeley,MORR Library,Morrison,21,14
+2/18/18 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+2/18/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,9,9
+2/18/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,15,14
+2/18/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,17,17
+2/18/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,32,32
+2/19/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+2/19/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,0,0
+2/19/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,0,0
+2/19/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,0,0
+2/19/18 12:00 AM,UC Berkeley,DOE Library,Doe North,4,7
+2/19/18 12:00 AM,UC Berkeley,DOE Library,Doe South,51,49
+2/19/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,4,4
+2/19/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,2,0
+2/19/18 12:00 AM,UC Berkeley,EAL Library,EAL,3,0
+2/19/18 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+2/19/18 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+2/19/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,0,0
+2/19/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,0,0
+2/19/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,68,52
+2/19/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,8,4
+2/19/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,9,15
+2/19/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1,0
+2/19/18 12:00 AM,UC Berkeley,MORR Library,Morrison,3,2
+2/19/18 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+2/19/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+2/19/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,0,0
+2/19/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,0,0
+2/19/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+2/20/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,781,778
+2/20/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,913,1013
+2/20/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,748,643
+2/20/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,631,594
+2/20/18 12:00 AM,UC Berkeley,DOE Library,Doe North,2073,1960
+2/20/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1737,1821
+2/20/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1298,1447
+2/20/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,861,871
+2/20/18 12:00 AM,UC Berkeley,EAL Library,EAL,317,211
+2/20/18 12:00 AM,UC Berkeley,EART Library,Earth North,155,198
+2/20/18 12:00 AM,UC Berkeley,EART Library,Earth South,186,146
+2/20/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,2327,2306
+2/20/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,1310,1325
+2/20/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,821,667
+2/20/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4377,83
+2/20/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,16,3824
+2/20/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3861,3632
+2/20/18 12:00 AM,UC Berkeley,MORR Library,Morrison,324,319
+2/20/18 12:00 AM,UC Berkeley,NEWS Library,News,105,110
+2/20/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,162,162
+2/20/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,80,77
+2/20/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,65,86
+2/20/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,263,252
+2/21/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,714,748
+2/21/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,844,933
+2/21/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,611,515
+2/21/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,640,637
+2/21/18 12:00 AM,UC Berkeley,DOE Library,Doe North,2083,2052
+2/21/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1687,1790
+2/21/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1308,1340
+2/21/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,833,910
+2/21/18 12:00 AM,UC Berkeley,EAL Library,EAL,261,192
+2/21/18 12:00 AM,UC Berkeley,EART Library,Earth North,156,173
+2/21/18 12:00 AM,UC Berkeley,EART Library,Earth South,161,143
+2/21/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,2272,2259
+2/21/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,1015,1014
+2/21/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,757,564
+2/21/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4188,85
+2/21/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,21,3811
+2/21/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3964,4093
+2/21/18 12:00 AM,UC Berkeley,MORR Library,Morrison,321,311
+2/21/18 12:00 AM,UC Berkeley,NEWS Library,News,116,114
+2/21/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,218,216
+2/21/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,118,117
+2/21/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,75,84
+2/21/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,142,139
+2/22/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,690,701
+2/22/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,772,894
+2/22/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,606,487
+2/22/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,506,461
+2/22/18 12:00 AM,UC Berkeley,DOE Library,Doe North,1938,1846
+2/22/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1697,1799
+2/22/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1203,1150
+2/22/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,795,830
+2/22/18 12:00 AM,UC Berkeley,EAL Library,EAL,294,188
+2/22/18 12:00 AM,UC Berkeley,EART Library,Earth North,170,199
+2/22/18 12:00 AM,UC Berkeley,EART Library,Earth South,188,159
+2/22/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,2032,2043
+2/22/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,1044,1044
+2/22/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,664,511
+2/22/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,3969,79
+2/22/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,20,3579
+2/22/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3458,3791
+2/22/18 12:00 AM,UC Berkeley,MORR Library,Morrison,351,343
+2/22/18 12:00 AM,UC Berkeley,NEWS Library,News,99,100
+2/22/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,120,121
+2/22/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,104,102
+2/22/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,67,78
+2/22/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,149,139
+2/23/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,602,575
+2/23/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,401,458
+2/23/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,278,211
+2/23/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,542,517
+2/23/18 12:00 AM,UC Berkeley,DOE Library,Doe North,1855,1663
+2/23/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1450,1595
+2/23/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,810,670
+2/23/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,681,728
+2/23/18 12:00 AM,UC Berkeley,EAL Library,EAL,168,69
+2/23/18 12:00 AM,UC Berkeley,EART Library,Earth North,99,115
+2/23/18 12:00 AM,UC Berkeley,EART Library,Earth South,107,91
+2/23/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,1599,1602
+2/23/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,545,546
+2/23/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,489,335
+2/23/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2392,62
+2/23/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,20,2310
+2/23/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2470,2982
+2/23/18 12:00 AM,UC Berkeley,MORR Library,Morrison,364,342
+2/23/18 12:00 AM,UC Berkeley,NEWS Library,News,107,112
+2/23/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,93,92
+2/23/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,81,82
+2/23/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,66,69
+2/23/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,144,143
+2/24/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,1,1
+2/24/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,108,125
+2/24/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,126,103
+2/24/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,0,0
+2/24/18 12:00 AM,UC Berkeley,DOE Library,Doe North,1086,1006
+2/24/18 12:00 AM,UC Berkeley,DOE Library,Doe South,518,475
+2/24/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,965,847
+2/24/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,406,294
+2/24/18 12:00 AM,UC Berkeley,EAL Library,EAL,129,55
+2/24/18 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+2/24/18 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+2/24/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,529,524
+2/24/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,229,229
+2/24/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,52,38
+2/24/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,1718,31
+2/24/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,29,1730
+2/24/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,1457,1516
+2/24/18 12:00 AM,UC Berkeley,MORR Library,Morrison,23,9
+2/24/18 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+2/24/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,5,4
+2/24/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,5,6
+2/24/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,13,13
+2/24/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+2/25/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,2,2
+2/25/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,275,313
+2/25/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,224,177
+2/25/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,3,3
+2/25/18 12:00 AM,UC Berkeley,DOE Library,Doe North,863,728
+2/25/18 12:00 AM,UC Berkeley,DOE Library,Doe South,512,621
+2/25/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1031,1166
+2/25/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,451,444
+2/25/18 12:00 AM,UC Berkeley,EAL Library,EAL,89,112
+2/25/18 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+2/25/18 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+2/25/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,1036,1030
+2/25/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,886,894
+2/25/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,0,60
+2/25/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,2480,26
+2/25/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,18,2144
+2/25/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,2582,2246
+2/25/18 12:00 AM,UC Berkeley,MORR Library,Morrison,3,6
+2/25/18 12:00 AM,UC Berkeley,NEWS Library,News,6,6
+2/25/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,8,7
+2/25/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,21,18
+2/25/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,23,24
+2/25/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,32,31
+2/26/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,700,746
+2/26/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,894,1040
+2/26/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,667,554
+2/26/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,558,546
+2/26/18 12:00 AM,UC Berkeley,DOE Library,Doe North,1921,1893
+2/26/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1683,1768
+2/26/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1434,1440
+2/26/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,870,919
+2/26/18 12:00 AM,UC Berkeley,EAL Library,EAL,228,99
+2/26/18 12:00 AM,UC Berkeley,EART Library,Earth North,141,199
+2/26/18 12:00 AM,UC Berkeley,EART Library,Earth South,166,111
+2/26/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,2330,2306
+2/26/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,1034,1042
+2/26/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,8,793
+2/26/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4068,93
+2/26/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,15,3662
+2/26/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3458,3677
+2/26/18 12:00 AM,UC Berkeley,MORR Library,Morrison,315,321
+2/26/18 12:00 AM,UC Berkeley,NEWS Library,News,120,117
+2/26/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,122,122
+2/26/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,113,115
+2/26/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,88,93
+2/26/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,251,251
+2/27/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,616,651
+2/27/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,751,854
+2/27/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,597,503
+2/27/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,581,552
+2/27/18 12:00 AM,UC Berkeley,DOE Library,Doe North,1835,1851
+2/27/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1644,1675
+2/27/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1345,1406
+2/27/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,763,803
+2/27/18 12:00 AM,UC Berkeley,EAL Library,EAL,299,179
+2/27/18 12:00 AM,UC Berkeley,EART Library,Earth North,149,176
+2/27/18 12:00 AM,UC Berkeley,EART Library,Earth South,173,146
+2/27/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,2225,2203
+2/27/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,1133,1135
+2/27/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,5,632
+2/27/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4125,69
+2/27/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,15,3693
+2/27/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3763,3840
+2/27/18 12:00 AM,UC Berkeley,MORR Library,Morrison,219,220
+2/27/18 12:00 AM,UC Berkeley,NEWS Library,News,111,108
+2/27/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,197,196
+2/27/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,114,111
+2/27/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,72,88
+2/27/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,234,231
+2/28/18 12:00 AM,UC Berkeley,BANC Library,Bancroft,764,793
+2/28/18 12:00 AM,UC Berkeley,BIOS Library,VLSB1,778,943
+2/28/18 12:00 AM,UC Berkeley,BIOS Library,VLSB2,687,518
+2/28/18 12:00 AM,UC Berkeley,CHEM Library,Sensor 25,602,595
+2/28/18 12:00 AM,UC Berkeley,DOE Library,Doe North,1921,1927
+2/28/18 12:00 AM,UC Berkeley,DOE Library,Doe South,1710,1732
+2/28/18 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,1556,1517
+2/28/18 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,856,869
+2/28/18 12:00 AM,UC Berkeley,EAL Library,EAL,344,197
+2/28/18 12:00 AM,UC Berkeley,EART Library,Earth North,167,199
+2/28/18 12:00 AM,UC Berkeley,EART Library,Earth South,190,160
+2/28/18 12:00 AM,UC Berkeley,ENGI Library,ENGI,2222,2232
+2/28/18 12:00 AM,UC Berkeley,ENVI Library,ENVI,1180,1181
+2/28/18 12:00 AM,UC Berkeley,MATH Library,Sensor 24,5,675
+2/28/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4364,82
+2/28/18 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,18,3947
+2/28/18 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,3778,4040
+2/28/18 12:00 AM,UC Berkeley,MORR Library,Morrison,372,361
+2/28/18 12:00 AM,UC Berkeley,NEWS Library,News,123,118
+2/28/18 12:00 AM,UC Berkeley,OPTO Library,OPTO,119,124
+2/28/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Back,95,96
+2/28/18 12:00 AM,UC Berkeley,PUBL Library,PUBL_Front,66,84
+2/28/18 12:00 AM,UC Berkeley,SOCR Library,SOCR,197,187
