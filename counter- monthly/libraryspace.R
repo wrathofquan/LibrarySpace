@@ -60,13 +60,16 @@ hourly <- read_xlsx("./counter-hourly/counter.xlsx")
 
 ## What's the busiest day for each library?
 
-busiest_day <- hourly %>% 
-  group_by(Facility, day1 = floor_date(Date, "day")) %>% 
-  summarize(count = sum(Entries)) %>% 
-  group_by(Facility, day1) %>% 
-  summarize(max(count)) %>% 
-  top_n(n = 5) %>% 
-  arrange(desc(`max(count)`), Facility ) %>% 
-  filter(`max(count)`>0)
+busiest_day <- hourly %>%
+  group_by(Facility, day1 = floor_date(Date, "day")) %>%
+  summarize(count = sum(Entries)) %>%
+  group_by(Facility, day1) %>%
+  summarize(count = max(count)) %>%
+  top_n(n = 15) %>%
+  arrange(desc(count), Facility ) %>%
+  filter(count>0)
 
+#quick chart
+busiest_day %>% 
+  ggplot(aes(x= day1, y = count, color=Facility)) + geom_point()
 
